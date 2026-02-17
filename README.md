@@ -14,8 +14,8 @@ OS : Arch Linux<br>
 ## // Tools 
 <div class="boxalamak">
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=js,bash,vscode,figma,discord,replit"/>  <br>                         
-  <img src="https://skillicons.dev/icons?i=docker,nginx,debian,arch,kali"/>
+  <img src="https://skillicons.dev/icons?i=blender,bash,vscode,figma,discord,replit"/>  <br>                         
+  <img src="https://skillicons.dev/icons?i=docker,nginx,debian,arch,tailscale"/>
 </p>
 </div>
 
