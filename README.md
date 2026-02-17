@@ -15,7 +15,7 @@ OS : Arch Linux<br>
 <div class="boxalamak">
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=blender,bash,vscode,figma,discord,replit"/>  <br>                         
-  <img src="https://skillicons.dev/icons?i=docker,nginx,debian,arch,tailscale"/>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,debian,arch,kali"/>
 </p>
 </div>
 
