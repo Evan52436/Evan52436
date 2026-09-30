@@ -1,7 +1,7 @@
 
 ## // Evan Pranawa Armansyah 
 
-<p>I'm a tech enthusiast based in Bogor, Indonesia. 
+<p>I'm a Junior System Administrator (SysAdmin) based in Bogor, Indonesia. 
 Currently still in school but I've worked on various personal projects<br>including home class servers 
 and network mapping that have helped me develop a strong foundation in 
 Cybersecurity.<br> I also have experience in music industry such as performing on stage, Event Audio Engineer, playing with DAW and many more.<br>
