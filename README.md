@@ -11,6 +11,12 @@ I major in Computer Science Cybersecurity and Networking</p>
 Major : Rekayasa Perangkat Lunak (RPL)<br>
 Role : Junior DevSecOps<br>
 OS : Void Linux, BlackArch, Windows 11<br>
+
+## // Token
+<div class="tok">
+<a href="https://tokscale.ai/u/Evan52436"><img alt="Tokscale Stats for @Evan52436" src="https://tokscale.ai/api/embed/Evan52436/svg?template=minimal&color=orange&tokens=compact&cost=compact" /></a>
+</div>
+
 ## // Tools 
 <div class="boxalamak">
 <p align="left"> 
@@ -18,7 +24,6 @@ OS : Void Linux, BlackArch, Windows 11<br>
   <img src="https://skillicons.dev/icons?i=docker,nginx,debian,arch,arduino"/>
 </p>
 </div>
-
 
 
 
