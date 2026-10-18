@@ -9,7 +9,7 @@ I major in Software Engineering. </p>
 
 ## // Details 
 Major : Rekayasa Perangkat Lunak (RPL)<br>
-Role : Junior DevSecOps<br>
+Role : Junior System Administrator<br>
 OS : Void Linux, BlackArch, Windows 11<br>
 
 ## // Token
