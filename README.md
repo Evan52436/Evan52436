@@ -20,7 +20,7 @@ OS : Void Linux, BlackArch, Windows 11<br>
 ## // Tools 
 <div class="boxalamak">
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=blender,bash,vscode,php,figma,discord"/>  <br>                         
+  <img src="https://skillicons.dev/icons?i=blender,bash,vscode,cloudflare,figma,discord"/>  <br>                         
   <img src="https://skillicons.dev/icons?i=docker,nginx,debian,arch,arduino"/>
 </p>
 </div>
