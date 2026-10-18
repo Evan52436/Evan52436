@@ -5,7 +5,7 @@
 Currently still in school but I've worked on various personal projects including home class servers 
 and network mapping that have helped me develop a strong foundation in 
 Cybersecurity.<br> I also have experience in music industry such as performing on stage, Event Audio Engineer, playing with DAW and many more.<br>
-I major in Computer Science Cybersecurity and Networking</p>
+I major in Software Engineering. </p>
 
 ## // Details 
 Major : Rekayasa Perangkat Lunak (RPL)<br>
