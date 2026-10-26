@@ -12,7 +12,7 @@ Major : Rekayasa Perangkat Lunak (RPL)<br>
 Role : Junior System Administrator<br>
 OS : Void Linux, BlackArch, Windows 11<br>
 
-## $ Token.png
+## $ Token.svg
 <div class="tok">
 <a href="https://tokscale.ai/u/Evan52436"><img alt="Tokscale Stats for @Evan52436" src="https://tokscale.ai/api/embed/Evan52436/svg?template=minimal&color=orange&tokens=compact&cost=compact" /></a>
 </div>
